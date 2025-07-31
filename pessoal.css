@@ -11,9 +11,9 @@ body {
 .container {
     flex: 1;
     padding: 40px;
-    max-width: 800px; /* FIXA a largura máxima */
-    width: 800px;     /* LARGURA FIXA */
-    margin: 40px auto; /* Centraliza */
+    max-width: 800px;
+    width: 800px;
+    margin: 40px auto;
     background: #fff;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
@@ -112,16 +112,16 @@ button:hover {
 
 .rodapé {
     background: #2c2c50;
-    padding: 10px 15px;  /* antes era 25px */
-    font-size: 14px;     /* diminui texto */
+    padding: 10px 15px;
+    font-size: 14px;
 }
 .rodapé h2 {
     color: #fff;
     text-align: center;
-    font-size: 18px;     /* antes era 22px */
+    font-size: 18px;
 }
 .rodapé p {
     color: #fff;
     text-align: center;
-    font-size: 14px;     /* antes era 16px */
+    font-size: 14px;
 }
